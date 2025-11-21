@@ -1,0 +1,18 @@
+GET https://ly.syaro.io:380/yodb/api/anon/vulgar/monsterScore/detailByBgmId/309098 HTTP/1.1
+
+###
+
+GET https://ly.syaro.io:380/yodb/api/anon/vulgar/monster/vo/detailByBgmId/309098 HTTP/1.1
+
+###
+
+GET https://music.163.com/api/song/lyric
+?id=419596411
+    
+###
+
+POST https://music.163.com/weapi/song/lyric?csrf_token=16b157ee1d72983a7bb2226fac949121
+Content-Type: application/x-www-form-urlencoded
+
+params=eekPaQNczzAnI955N1R9%2Bk6yHDzvRr3BC7%2FVHUvGEKlsFXXy5Fy%2B%2FngF1mcAE7hPzcJu8Rl6psr6gg9eXulPv5IfvPUqghJDrxxTh%2BDFObvz6Wjx5FMQOSeyOPuJX6I80IzfIqS3KpTAqzv1GzTME9N6AobZB103zqB1OuEHEJ2aKuSqj10EqowJEQrOwscP
+&encSecKey=b0cc7521bf1f63b1583241814e6c122ed7fb3edfd3b36065a74cbe8145aae1fcc36e2e5e6a8af7f50d6c032f92b39e8a1e6aecc51d6c1dc1b237d247eb1c4f5fa9a9fcd6f00c1b2609f510a886353228e6057b4e88a2bc8531506f3efeb39744ae0ad4e376ff9c1e82b0df41675e6aa05eceddd35387ee6dfb171fa7823454ca
